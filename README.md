@@ -13,7 +13,7 @@ Audio scripts for all sound in-game.
 ## Sc_Block
 Classes for all in-game block types. Block is the top-level parent for all interactable 1x1x1 unit blocks, even if that block is static.
 
-## Camera
+## Sc_Camera
 
 ## Sc_Details
 
